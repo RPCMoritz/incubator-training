@@ -51,7 +51,7 @@ ZooKeeper is a distributed, highly available, scalable and strictly consistent h
 
 
 == Data Model
-image::data-model.png[]
+image::../resources/images/data-model.png[]
 
 
 == Data Model
